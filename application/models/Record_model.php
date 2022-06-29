@@ -8,7 +8,7 @@ class Record_model extends CI_Model {
     public function __construct() {
         $this->client = new Client([
             // TODO: Tambahkan Base URL API
-            'base_uri' => "https://frontend.submission-mgce-rafly.appspot.com/",
+            'base_uri' => "backend.submission-mgce-rafly.et.r.appspot.com",
         ]);
     }
 

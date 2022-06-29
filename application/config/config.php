@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'https://submission-mgce-rafly.appspot.com/';
+$config['base_url'] = 'https://backend.submission-mgce-rafly.appspot.com/';
 
 /*
 |--------------------------------------------------------------------------
